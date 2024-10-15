@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .App {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  input {
+    padding: 10px;
+    width: 300px;
+    margin-right: 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+  }
+  
+  .results {
+    margin-top: 20px;
+  }
+  
+  .movie {
+    margin: 20px;
+  }
+  
+  img {
+    width: 100px;
+    height: 150px;
+  }
+  
